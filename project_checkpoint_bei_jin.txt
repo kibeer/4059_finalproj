@@ -1,0 +1,14 @@
+1. Progress Update
+- Current Progress: [Describe what you have accomplished up to this point.]
+- Comparison to Plan: [Identify how your current progress matches or does not match the progress you anticipated in your project plan.]
+ 
+2. Implementation Details
+- Implementation: [Describe the current state of your code implementation, including any algorithms and optimizations you have applied.]
+- Performance Measurements: [Present appropriate performance measurements of your code implementation to date.]
+ 
+Provide a link to a GitHub repository containing your project code.
+[GitHub Repository Link]
+ 
+3. Revisions to Project Plan
+- Revisions: [Detail any changes to your project plan.]
+- Justification: [Explain why these revisionsare necessary. It is common and expected for projects to change direction slightly during implementation.]
